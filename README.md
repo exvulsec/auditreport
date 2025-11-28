@@ -60,6 +60,7 @@
 | Nubila | Solidity | 2025-10 | Ethereum |
 | Yala | Solidity | 2025-10 | Ethereum |
 | Janction Token | Solidity | 2025-11 | Ethereum,BSC|
+| ipflow.fun | Rust | 2025-11 | Solana |
 
 
 
