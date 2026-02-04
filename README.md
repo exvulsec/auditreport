@@ -63,6 +63,11 @@
 | ipflow.fun | Rust | 2025-11 | Solana |
 | Fluxion | Solidity | 2025-11 | Ethereum |
 | AquaFlux | Solidity | 2026-02 | Ethereum |
+| Antx | Solidity | 2026-02 | Ethereum |
+| HolmesAI | Solidity | 2026-02 | Ethereum |
+| KDV Staking | Solidity | 2026-02 | Ethereum |
+| TokenX | Solidity | 2026-02 | Ethereum |
+| Yala Vault | Solidity | 2026-02 | Ethereum |
 
 
 
