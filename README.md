@@ -62,6 +62,7 @@
 | Janction Token | Solidity | 2025-11 | Ethereum,BSC|
 | ipflow.fun | Rust | 2025-11 | Solana |
 | Fluxion | Solidity | 2025-11 | Ethereum |
+| AquaFlux | Solidity | 2026-02 | Ethereum |
 
 
 
