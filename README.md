@@ -68,7 +68,6 @@
 | KDV Staking | Solidity | 2026-02 | Ethereum |
 | TokenX | Solidity | 2026-02 | Ethereum |
 | Yala Vault | Solidity | 2026-02 | Ethereum |
-| Tabi V3 | Solidity | 2026-02 | Tabi |
 
 
 
@@ -77,6 +76,7 @@
 - OORT(https://www.oortech.com/) Audit report
 - U2U-Go-Helios
 - Tabi
+- Tabi V3
 - InitVerse
 - QuarkChain
 
