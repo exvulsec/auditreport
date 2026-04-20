@@ -62,6 +62,7 @@
 | Janction Token | Solidity | 2025-11 | Ethereum,BSC|
 | ipflow.fun | Rust | 2025-11 | Solana |
 | Fluxion | Solidity | 2025-11 | Ethereum |
+| Trusta | Solidity | 2026-01 | - |
 | AquaFlux | Solidity | 2026-02 | Pharos |
 | Antx | Solidity | 2026-02 | Ethereum |
 | HolmesAI | Solidity | 2026-02 | Ethereum |
@@ -79,6 +80,7 @@
 - Tabi V3
 - InitVerse
 - QuarkChain
+- Pharos
 
 
 ## Wallet
