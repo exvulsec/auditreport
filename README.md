@@ -69,6 +69,10 @@
 | KDV Staking | Solidity | 2026-02 | Ethereum |
 | TokenX | Solidity | 2026-02 | Ethereum |
 | Yala Vault | Solidity | 2026-02 | Ethereum |
+| AquaFlux Rate Hook | Solidity | 2026-05 | Pharos |
+| Cysic Mercury V2 | Solidity | 2026-05 | - |
+| DHF Finance | Solidity | 2026-05 | BSC |
+| PayMentNFT | Solidity | 2026-05 | - |
 
 
 
