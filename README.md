@@ -73,6 +73,7 @@
 | Cysic Mercury V2 | Solidity | 2026-05 | - |
 | DHF Finance | Solidity | 2026-05 | BSC |
 | PayMentNFT | Solidity | 2026-05 | - |
+| Rolldex Bridge | Solidity | 2026-05 | Base/BSC |
 
 
 
