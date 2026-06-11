@@ -75,7 +75,7 @@
 | PayMentNFT | Solidity | 2026-05 | - |
 | Rolldex Bridge | Solidity | 2026-05 | Base/BSC |
 | Argopool| Solidity | 2026-06 | Ethereum |
-
+| Vishwa Proof Token | Solidity | 2026-06 | Ethereum |
 
 
 ## Chain Audit
