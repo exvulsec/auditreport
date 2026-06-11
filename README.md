@@ -74,6 +74,7 @@
 | DHF Finance | Solidity | 2026-05 | BSC |
 | PayMentNFT | Solidity | 2026-05 | - |
 | Rolldex Bridge | Solidity | 2026-05 | Base/BSC |
+| Argopool| Solidity | 2026-06 | Ethereum |
 
 
 
