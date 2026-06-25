@@ -76,6 +76,7 @@
 | Rolldex Bridge | Solidity | 2026-05 | Base/BSC |
 | Argopool| Solidity | 2026-06 | Ethereum |
 | Vishwa Proof Token | Solidity | 2026-06 | Ethereum |
+| Turbos | Sui Move | 2026-06 | Sui Network |
 
 
 ## Chain Audit
