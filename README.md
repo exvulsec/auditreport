@@ -78,6 +78,7 @@
 | Vishwa Proof Token | Solidity | 2026-06 | Ethereum |
 | Turbos | Sui Move | 2026-06 | Sui Network |
 | O1 Launch Tax Contracts | Solidity | 2026-09 | Multichain |
+| [Bibo](https://bibo.trade) | Solidity | 2026-09 | - |
 
 
 ## Chain Audit
