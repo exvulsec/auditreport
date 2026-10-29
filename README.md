@@ -82,6 +82,7 @@
 | [Bibo](https://bibo.trade) | Solidity | 2026-09 | - |
 | SGY | Solidity | 2026-10 | BSC |
 | GEN | Solidity | 2026-10 | BSC |
+| [Hedgehood Vaults](Smartcontract/Hedgehood%20Vaults%20Smart%20Contract%20Audit%20Report-Exvul.pdf) | Solidity | 2026-10 | Robinhood Chain |
 
 
 ## Chain Audit
